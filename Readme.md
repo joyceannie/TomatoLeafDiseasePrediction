@@ -1,8 +1,8 @@
-# Tomato Leaf Disease Classifiction
+# Tomato Leaf Disease Classification
 
 The objective of the project is to classify the images of tomato plant leaves to identify whether the plant is healthy or not. A classification model is trained using Tensorflow and Keras. The application runs locally on Flask server.
 
-## Datset
+## Dataset
 
 The dataset consists of images of 5 different classes organised into 5 different folders.
 * Tomato_Bacterial_spot
@@ -37,7 +37,6 @@ The dataset is obtained from [kaggle](https://www.kaggle.com/arjuntejaswi/plant-
 * Start the server
 ```
  python app.py
-
 ```
 * Goto localhost:5001
 
